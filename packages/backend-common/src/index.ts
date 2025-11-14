@@ -1,0 +1,1 @@
+export const SECRET="ewhl13halfa"
