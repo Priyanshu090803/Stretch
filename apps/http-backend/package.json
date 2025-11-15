@@ -9,9 +9,9 @@
     "dev": "npm run build  && npm run start "
   },
   "devDependencies": {
-    "@repo/typescript-config": "workspace:*",
-    "@repo/backend-common":"workspace:*",
-    "@repo/common":"workspace:*"
+    "@repo/backend-common": "workspace:*",
+    "@repo/common": "workspace:*",
+    "@repo/typescript-config": "workspace:*"
   },
   "keywords": [],
   "author": "",
@@ -19,6 +19,7 @@
   "dependencies": {
     "@types/express": "^5.0.5",
     "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^22.15.3",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
   }
